@@ -1167,7 +1167,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a882f1;
+  background: #e8b547;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1543,9 +1543,9 @@ pre .javascript .function {
 }
 .use-motion .post-block {
   opacity: 0;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  padding: 15px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 20px;
   background: rgba(255,255,255,0.9) none repeat scroll !important;
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
